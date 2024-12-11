@@ -10,14 +10,14 @@ This account exists for 4 purposes:
   </ol>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Liberty336 is a non-partisan humanitarian 1770-1792 style militia that engages in a wide range of activities:
-Our Website:
-https://liberty336.github.io/
-Our E-mail:
-Liberty336@protonmail.com
-Our Twitter/X:
-x.com/Liberty_336
-
+Liberty336 is a non-partisan humanitarian 1770-1792 style militia that engages in a wide range of activities:<br>
+Our Website:<br>
+https://liberty336.github.io/<br>
+Our E-mail:<br>
+Liberty336@protonmail.com<br>
+Our Twitter/X:<br>
+x.com/Liberty_336<br>
+<br>
 Whoever you are, wherever you are, may you do good for other people and may you live with liberty and prosperity.
 We hope you find something here useful,
 - Liberty336
