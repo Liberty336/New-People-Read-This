@@ -16,7 +16,7 @@ https://liberty336.github.io/<br>
 Our E-mail:<br>
 Liberty336@protonmail.com<br>
 Our Twitter/X:<br>
-x.com/Liberty_336<br>
+https://x.com/Liberty_336<br>
 <br>
 Whoever you are, wherever you are, may you do good for other people and may you live with liberty and prosperity.
 We hope you find something here useful,
