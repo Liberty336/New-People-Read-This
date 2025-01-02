@@ -3,7 +3,7 @@ If you don't know who or what Liberty336 is, or what this account exists for, re
 -----------------------------------------------------------------------------------------------------------------------------------------------
 This account exists for 4 purposes:
 <ol>
-  <li>To Fork other's code and to publish our own code (some repos will be private)</li>
+  <li>To Fork other's code and to publish our own code (most of our repos will be private)</li>
   <li>To publish videos and other content we've made here as a "backup"</li>
   <li>To host our website</li>
   <li><strong>and to make certain information available to the public for transparency</strong></li>
